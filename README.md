@@ -1,5 +1,7 @@
 # Next Auth v5
 
+#### Project is Live at [https://auth.salmann.dev](https://auth.salmann.dev)
+
 This is a repository for Next Auth v5 - Advanced Guide (2024)
 
 Key Features:
